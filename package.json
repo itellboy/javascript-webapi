@@ -1,0 +1,26 @@
+{
+  "name": "javascript-webapi",
+  "version": "1.0.0",
+  "description": "JavaScript Webapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itellboy/javascript-webapi.git"
+  },
+  "keywords": [
+    "javascript",
+    "webapi"
+  ],
+  "author": "itellboy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itellboy/javascript-webapi/issues"
+  },
+  "homepage": "https://github.com/itellboy/javascript-webapi#readme",
+  "devDependencies": {
+    "vuepress": "^1.0.3"
+  }
+}
