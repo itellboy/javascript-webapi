@@ -18,6 +18,10 @@ module.exports = {
   themeConfig: {
     sidebar: [
       ['/welcome', 'welcome'],
+      {
+        title: '文档对象模型(DOM)',
+        children: [],
+      }
     ],
   },
 }
